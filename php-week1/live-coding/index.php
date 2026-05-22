@@ -1,6 +1,16 @@
 <h1>Live Coding</h1>
-<?php
-$name = "Alice Smith";
-$content = "Welcome back, Alice Smith! You are currently enrolled in Web Mobile Application Development (WMAD).";
-echo $content;
+
+<?php 
+
+// echo "Hello World!";
+// echo "<br>";
+// echo "Dashboard";
+
+// echo "<br>";
+// echo "Welcome back, Alice Smith! You are currently enrolled in Web Mobile Application Development (WMAD).";
+$firstName = "Socheata";
+$lastName = "Kong";
+$fullName = $firstName . " " . $lastName;
+//$class = "Web Mobile Application Development (WMAD)";
+echo $fullName ;
 ?>
